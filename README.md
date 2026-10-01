@@ -22,3 +22,6 @@ La première commande simule une soirée tendue avec un château d'eau sous-dime
 - La pression au robinet dépend de la hauteur d'eau : environ 1 bar tous les 10 mètres.
 
 Spoiler : un vrai château d'eau encaisse très bien la mi-temps, c'est même exactement pour ça qu'on les construit. Les valeurs par défaut décrivent donc un château d'eau franchement sous-dimensionné, sinon il ne se passe rien.
+
+Vrai sujet ! https://www.instagram.com/reel/DZAHMXmM9ex
+
